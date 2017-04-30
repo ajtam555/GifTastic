@@ -1,7 +1,18 @@
-#cars-form {
+#buttons {
+	float:left;
+}
+
+#form-container {
 	float:right;
+
 }
 
 input {
 	display:block;
 }
+
+#gifs {
+	clear:both;
+}
+
+
