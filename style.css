@@ -1,18 +1,16 @@
 #buttons {
 	float:left;
+	width:80%;
 }
 
 #form-container {
 	float:right;
-
-}
-
-input {
-	display:block;
+	display:inline-block;
+	width:10%;
 }
 
 #gifs {
-	clear:both;
+	clear:right;
 }
 
 
